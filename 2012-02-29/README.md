@@ -1,0 +1,20 @@
+Problema Bolão da Copa do Mundo
+===============================
+
+Entrada
+-------
+
+2 ou mais apostas.
+O placar final dos jogos.
+
+Saída
+-------
+
+O apostador vencedor e o número de pontos que ele fez.
+
+Regras
+-------
+
+Acertar o vitória / empate: 2 pontos.
+Acertar o número de gols do time A: 1 ponto.
+Acertar o número de gols do time B: 1 ponto.
