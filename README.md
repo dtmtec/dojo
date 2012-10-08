@@ -13,6 +13,9 @@ Contribuição
 * [Felipe Mesquita] (https://github.com/felipemesquita)
 * [Gustavo Kloh] (https://github.com/gustavokloh)
 * [Marcelo Murad] (https://github.com/marcelomurad)
-* [Nelson Prado] (https://github.com/nelsonprado)
 * [Otávio Cardoso] (https://github.com/otaviocardoso)
-* [Yuri Mello] (https://github.com/yurimello)
+* [Vicente Mundim] (https://github.com/vicentemundim)
+* [Julian Gutierrez] (https://github.com/juliangutierrez)
+* [João Carreira] (https://github.com/jcomello)
+* [Luiz Vasconcellos] (https://github.com/vasconcelloslf)
+* E quem mais quiser!
